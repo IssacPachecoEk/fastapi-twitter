@@ -26,6 +26,7 @@ Incluye:
     ```bash
     $ python3 -m venv venv
     $ source venv/bin/activate
+    $ deactivate
     ```
 
 2. Install the app
